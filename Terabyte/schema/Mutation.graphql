@@ -1,0 +1,3 @@
+type Mutation {
+    cadastrarUsuario(nome: String, data_nascimento: String, curso: String, telefone: String, periodo: Int, matricula: String, email: String, senha: String, cpf: String, rg: String, fk_perfil:Int): Int
+}

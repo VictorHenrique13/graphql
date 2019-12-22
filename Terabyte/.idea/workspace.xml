@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56a37ff0-68ba-4676-b631-05e5bd7800a8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="GraphQL File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VCRnD20jKx1PJYTxQrvmD3p7Gp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="index.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/index.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.index.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56a37ff0-68ba-4676-b631-05e5bd7800a8" name="Default Changelist" comment="" />
+      <created>1576755255004</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576755255004</updated>
+      <workItem from="1576755258470" duration="5462000" />
+      <workItem from="1576772127180" duration="8141000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1273" height="149" key="GridCell.Tab.0.bottom" timestamp="1576797855357">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1273" height="149" key="GridCell.Tab.0.bottom/70.27.1296.741/1366.0.1360.768@70.27.1296.741" timestamp="1576797855357" />
+    <state width="1273" height="149" key="GridCell.Tab.0.center" timestamp="1576797855356">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1273" height="149" key="GridCell.Tab.0.center/70.27.1296.741/1366.0.1360.768@70.27.1296.741" timestamp="1576797855356" />
+    <state width="1273" height="149" key="GridCell.Tab.0.left" timestamp="1576797855356">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1273" height="149" key="GridCell.Tab.0.left/70.27.1296.741/1366.0.1360.768@70.27.1296.741" timestamp="1576797855356" />
+    <state width="1273" height="149" key="GridCell.Tab.0.right" timestamp="1576797855357">
+      <screen x="70" y="27" width="1296" height="741" />
+    </state>
+    <state width="1273" height="149" key="GridCell.Tab.0.right/70.27.1296.741/1366.0.1360.768@70.27.1296.741" timestamp="1576797855357" />
+  </component>
+</project>

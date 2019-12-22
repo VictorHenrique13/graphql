@@ -1,0 +1,17 @@
+scalar Date
+type Usuario {
+    id_usuario: Int
+    nome: String
+    data_nascimento: String
+    curso: String
+    telefone: String
+    periodo: Int
+    matricula: Int
+    email : String
+    senha : String
+    cpf: String
+    rg: String
+    fk_perfil: Int
+    data_criacao: Date
+    status : Boolean
+}

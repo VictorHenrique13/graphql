@@ -1,0 +1,5 @@
+type Query{
+    ola: String!
+    getUsuarios: [Usuario]
+    login:Usuario
+}
